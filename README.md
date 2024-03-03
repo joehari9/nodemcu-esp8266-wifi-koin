@@ -9,4 +9,7 @@
            5. adaptor 12 volt 2 ampere<br>
            6. lcd 20x4 sudah terpasang modul i2c (optional bisa pakai bisa juga tidak)<br>
            7. kabel seperlunya<br>
+4. Download file wifikoin.bin<br>
+5. Upload sketch ke nodemcu menggunakan esp8266 flasher untuk windows atau esp8266 loader untuk android<br>
+6. Setelah sketch berhasil terupload ke nodemcu rangkaikan semmua komponen seperti pada diagram dibawah<br>
 ![image.png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/153679197_111282374341679_7.jpg)
