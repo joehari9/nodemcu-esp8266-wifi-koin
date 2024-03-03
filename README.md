@@ -9,4 +9,4 @@
            5. adaptor 12 volt 2 ampere<br>
            6. lcd 20x4 sudah terpasang modul i2c (optional bisa pakai bisa juga tidak)<br>
            7. kabel seperlunya<br>
-![image.png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screeshot/153679197_111282374341679_7.jpg)
+![image.png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/153679197_111282374341679_7.jpg)
