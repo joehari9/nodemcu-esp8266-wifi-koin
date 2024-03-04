@@ -17,3 +17,6 @@
 6. Setelah sketch berhasil terupload ke nodemcu rangkaikan semmua komponen seperti pada diagram dibawah<br>
 ![diagram png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/diagram.jpg)<br>
 7. tancapkan adaptor tunggu hingga muncul wifi degan nama ssid vending_setup <br>
+8. hubungkan ke ssid vending_setup buka browser masukkan ip **192..168.4.1** akan terbuka halaman instalasi step 1<br>
+9. isi semua form ,karena terhubung ke jarinngan hotspot yang tanpa password untuk kolom password pada ssid seting bisa dikosongkan ,sedangkan untuk lisensi bisa di isi apa saja seperti gambar dibawah<br>
+
