@@ -21,4 +21,5 @@
 9. isi semua form ,karena terhubung ke jarinngan hotspot yang tanpa password untuk kolom password pada seting ap/ssid bisa dikosongkan ,sedangkan untuk lisensi bisa di isi apa saja seperti gambar dibawah<br>
 ![install png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/istall-step1.jpg)<br>
 10. klik simpan data dan selanjutya akan di arahkan ke step2<br>
-![step2 png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/install-step2.png)
+![step2 png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/install-step2.png)<br>
+11. copy semua text di text area lalu buka terinal mikrotik kemudia paste text tersebut lalu klik enter ,atau bisa juga binding manual copy mac address saja masuk winbox **ip->hotspot->ip binding->** paste mac address pilih type bypass 
