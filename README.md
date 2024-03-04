@@ -15,4 +15,5 @@
 4. Download file **wifikoin.bin**<br>
 5. Upload sketch ke nodemcu menggunakan esp8266 flasher untuk windows atau esp8266 loader untuk android<br>
 6. Setelah sketch berhasil terupload ke nodemcu rangkaikan semmua komponen seperti pada diagram dibawah<br>
-![diagram png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/diagram.jpg)
+![diagram png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/diagram.jpg)<br>
+7. tancapkan adaptor tunggu hingga muncul wifi degan nama ssid vending_setup <br>
