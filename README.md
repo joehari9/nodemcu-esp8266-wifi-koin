@@ -7,8 +7,8 @@
            2. nodemmcu esp8266<br>
            3. dc stepdown dengan output 5 volt yang adjustable atau bukan atau bisa juga dengan ic 7805<br>
            4. 2 buah lampu led dengan warna berbeda (optional jika tidak ada lcd)<br>
-           5. 3 buah resistor berukuran 39k 10k dan 220 ohm<br>
-           6. buzzer
+           5. 3 buah resistor masing-masing berukuran 39k 10k dan 220 ohm<br>
+           6. buzzer<br>
            7. adaptor 12 volt 2 ampere<br>
            8. lcd 20x4 sudah terpasang modul i2c (optional bisa pakai bisa juga tidak)<br>
            9. kabel seperlunya<br>
