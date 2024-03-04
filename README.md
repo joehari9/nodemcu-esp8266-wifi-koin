@@ -21,3 +21,4 @@
 9. isi semua form ,karena terhubung ke jarinngan hotspot yang tanpa password untuk kolom password pada seting ap/ssid bisa dikosongkan ,sedangkan untuk lisensi bisa di isi apa saja seperti gambar dibawah<br>
 ![install png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/istall-step1.jpg)<br>
 10. klik simpan data dan selanjutya akan di arahkan ke step2<br>
+![step2 png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/install-step2.png)
