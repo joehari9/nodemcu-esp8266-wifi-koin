@@ -24,4 +24,5 @@
 ![step2 png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/install-step2.png)<br>
 12. copy semua text di text area lalu buka terinal mikrotik kemudia paste text tersebut lalu klik enter ,atau bisa juga binding manual copy mac address saja masuk winbox **ip->hotspot->ip binding->** paste mac address pilih type bypass<br>
 13. selanjutnya login ke admin panel IP address, dapat dilihat di lcd saat loading start atau bisa dilihat dengan membuka browser kunjungi **alamat/ip login hotspot/host.txt** login dengan user password admin saat proses instalasi dan lengkapi semua setingan wifikoin ready <br>
+![admin png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/Screenshot_20240305_071420.jpg)
 ### catatan : untuk trial hanya bisa membuat satu tarif dengan satu koin dan countdown timer 10 detik full feature dapatkan valid license
