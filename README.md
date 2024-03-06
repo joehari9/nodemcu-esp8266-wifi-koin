@@ -3,7 +3,7 @@
 
 2. Download file **loginpage.zip** dan upload ke mikrotik harap jangan di rubah folder wifikoin jika di rubah wifikoin tidak akan bekerja arahkan saja HTML directory hotspot pada server profile mikrotik ke folder wifikoin sehingga tapilan login akan tampak seperti dibawah.<br>
 ![loginpage png](https://raw.githubusercontent.com/joehari9/nodemcu-esp8266-wifi-koin/main/screenshot/login.jpg) <br>
-3. Pada server profile pastika juga pilihan loginn by ceklist haya di HTTP CHAP<br>
+3. Pada server profile pastika juga pilihan login by ceklist haya di HTTP CHAP<br>
 4. Pastikan semua part sudah siap yang terdiri dari:<br>
            1. multy koin acceptor (kalibrasi terlebih dahulu dan ingat urutannya)<br>
            2. nodemcu esp8266<br>
